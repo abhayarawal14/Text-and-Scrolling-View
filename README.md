@@ -1,3 +1,4 @@
 # Text-and-Scrolling-View
-![scrolling challenge](https://user-images.githubusercontent.com/81616443/145710443-0b2878b0-288c-4cec-a58d-1bcc193180d7.gif)
+![scrolling challenge](https://user-images.githubusercontent.com/81616443/145715599-b9e15894-b729-4237-abd0-59c288e4b176.gif)
+
 
